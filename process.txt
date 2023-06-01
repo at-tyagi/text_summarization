@@ -1,0 +1,7 @@
+create template
+run template
+create requirements.txt
+create setup.py
+pip install -r requirements.txt
+commit and push 
+write in __init__.py inside logging 
